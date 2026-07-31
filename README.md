@@ -45,7 +45,7 @@ Windows 환경에서 기본적으로 알아야 하는 네트워크 개념과
 
 | Topic | Status |
 |------|:------:|
-| Network Overview | ⏳ |
+| Network Overview | ✅ |
 | IP Address | ⏳ |
 | Subnet Mask | ⏳ |
 | Default Gateway | ⏳ |

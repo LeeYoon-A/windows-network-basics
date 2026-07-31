@@ -50,7 +50,7 @@ Windows 환경에서 기본적으로 알아야 하는 네트워크 개념과
 | [Subnet Mask](docs/03-subnet-mask.md) | ✅ |
 | [Default Gateway](docs/04-default-gateway.md) | ✅ |
 | [DNS](docs/05-dns.md) | ✅ |
-| [DHCP](docs/06-dhcp.md) | ⏳ |
+| [DHCP](docs/06-dhcp.md) | ✅ |
 | [ipconfig](labs/07-ipconfig.md) | ⏳ |
 | [ping](labs/08-ping.md) | ⏳ |
 | [nslookup](labs/09-nslookup.md) | ⏳ |

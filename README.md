@@ -54,7 +54,7 @@ Windows 환경에서 기본적으로 알아야 하는 네트워크 개념과
 | [ipconfig](docs/07-ipconfig.md) | ✅ |
 | [ping](docs/08-ping.md) | ✅ |
 | [nslookup](docs/09-nslookup.md) | ✅ |
-| [tracert](docs/10-tracert.md) | ⏳ |
+| [tracert](docs/10-tracert.md) | ✅ |
 | [Network Troubleshooting](docs/11-network-troubleshooting.md) | ⏳ |
 
 ---

@@ -48,7 +48,7 @@ Windows 환경에서 기본적으로 알아야 하는 네트워크 개념과
 | [Network Overview](docs/01-network-overview.md) | ✅ |
 | [IP Address](docs/02-ip-address.md) | ✅ |
 | [Subnet Mask](docs/03-subnet-mask.md) | ✅ |
-| [Default Gateway](docs/04-default-gateway.md) | ⏳ |
+| [Default Gateway](docs/04-default-gateway.md) | ✅ |
 | [DNS](docs/05-dns.md) | ⏳ |
 | [DHCP](docs/06-dhcp.md) | ⏳ |
 | [ipconfig](labs/07-ipconfig.md) | ⏳ |
